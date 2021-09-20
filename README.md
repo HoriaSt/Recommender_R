@@ -1,3 +1,7 @@
+### Introduction
+
+In this project, while being part of a team I created a recommender system for an e-commerce website. I used a hybrid recommender system that encompasses three methods: Popular, Random and Item Based Collaborative Filtering. As a final deliverable, the code creates a Shiny dashboard that helps the user explore the results.
+
 Data was sourced from kaggle.com and represents anonimized user data from the Brazilian e-commerce website Olist.
 https://www.kaggle.com/olistbr/brazilian-ecommerce
 
